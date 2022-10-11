@@ -1,0 +1,15 @@
+## Interface: 30400
+## Title: MageAlert |cff99cc01rev|cffFF0000 version 1.3
+## Notes: Never miss an Brain Freeze, Hot Streak or Missle Barrage proc
+## Author: Buahh & Yheen ( Baelgun EU-de) / Russian location by Mongan / 3.3 update by Nekrotik
+## SavedVariables: MageAlert
+## X-Curse-Packaged-Version: 
+## X-Curse-Project-Name: MageAlert
+## X-Curse-Project-ID: magealert
+## X-Curse-Repository-ID: wow/magealert/mainline
+## X-Curse-Packaged-Version: 
+## X-Curse-Project-Name: MageAlert
+## X-Curse-Project-ID: magealert
+## X-Curse-Repository-ID: wow/magealert/mainline
+
+MageAlert.xml
